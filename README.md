@@ -1,11 +1,12 @@
 # CvxOptSLOCC
 
+This collection of MATLAB files aims to prove separability or membership in a certain SLOCC entanglement class, see test_SEP_rhoPH.m for an example. It is also able to perform the likelihood-ratio test, see test_LRT_rhoPH.m for a demonstration.
+
+ * `test_SEP_rhoPH` Test for separability, using the 3x3 bound entangled states by P. Horodecki.
+ * `test_LRT_rhoPH.m` Demonstration of the likelihood-ratio test (LRT), using the 3x3 bound entangled states by P. Horodecki.
  * `apg_Gilbert.m` The apg_Gilbert algorithm.
  * `dg_Gilbert.m` The dg_Gilbert algorithm.
  * `Gilbert_SLOCC.m` The Gilbert_SLOCC algorithm.
- * `test_SEP_rhoPH` Test for separability, using the 3x3 bound entangled states by P. Horodecki.
- * `test_LRT_rhoPH.m` Demonstration of the likelihood-ratio test (LRT), using the 3x3 bound entangled states by P. Horodecki.
- 
  * `qmt.m` Quantum measurement transform.
  * `WSLOCCMaxG.m` W-state SLOCC maximization (n-parties).
  * `RandomLocalUnitary.m` Random local unitary (uniform with respect to the Haar measure).
