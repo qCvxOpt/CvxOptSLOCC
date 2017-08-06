@@ -1,6 +1,6 @@
 # CvxOptSLOCC
 
-This collection of *MATLAB* files aims to prove separability or membership in a certain SLOCC entanglement class, see `test_SEP_rhoPH.m` for an example. It is also able to perform the likelihood-ratio test, see `test_LRT_rhoPH.m` for a demonstration.
+This collection of *MATLAB* files aims to prove separability or membership in a certain SLOCC entanglement class for a given multiparticle quantum state, see `test_SEP_rhoPH.m` for an example. It is also able to perform the likelihood-ratio test, see `test_LRT_rhoPH.m` for a demonstration.
 
  * `test_SEP_rhoPH` Test for separability, using the 3x3 bound entangled states by P. Horodecki.
  * `test_LRT_rhoPH.m` Demonstration of the likelihood-ratio test (LRT), using the 3x3 bound entangled states by P. Horodecki.
