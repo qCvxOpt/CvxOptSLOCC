@@ -25,7 +25,7 @@ License
 
 MIT License
 
-Copyright (c) 2017 Jiangwei Shang and Otfried Gühne
+Copyright (c) 2017-2018 Jiangwei Shang and Otfried Gühne
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
