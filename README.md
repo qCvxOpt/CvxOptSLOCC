@@ -17,7 +17,7 @@ This collection of *MATLAB* files aims to prove separability or membership in a 
 Reference
 ----
 If you are using the source codes for your research, please consider citing:
- * J. Shang and O. Gühne, "Convex optimization over classes of multiparticle entanglement," *Physical Review Letters 120, 050506 (2018)*.
+ * J. Shang and O. Gühne, "Convex optimization over classes of multiparticle entanglement," *Physical Review Letters **120**, 050506 (2018)*.
 
 
 License
